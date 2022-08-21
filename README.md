@@ -9,10 +9,10 @@ The password generator application generates a random password based on user-sel
 ```
 
 ## Screenshot
-screenshot-1 .png
+
 
 ## Live Link
 https://toddrgarner.github.io/javascript-password-generator/
 
 ## Github Link
-https://github.com/toddrgarner/javascript-password-generatorcleagit 
+https://github.com/toddrgarner/javascript-password-generatorcleagit #
