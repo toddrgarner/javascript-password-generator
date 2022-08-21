@@ -10,3 +10,10 @@ The password generator application generates a random password based on user-sel
 
 ## Screenshots and Links
 
+![Screen Shot-1](https://user-images.githubusercontent.com/110719370/185781417-5c814733-9879-4303-b292-0ae56b6fea05.png)
+![Screen Shot-2](https://user-images.githubusercontent.com/110719370/185781468-13b4aa3c-0bfa-4020-9857-ab292e6c7d86.png)
+![Screen Shot-3](https://user-images.githubusercontent.com/110719370/185781477-ec5409e3-5c1b-4e61-9c5d-08133d4a5a1b.png)
+![Screen Shot-4](https://user-images.githubusercontent.com/110719370/185781485-06a10e3e-7e95-401d-82c3-f00c5d48797e.png)
+![Screen Shot-5](https://user-images.githubusercontent.com/110719370/185781493-a029e1ee-b5fc-4454-a1a5-7e3bff33e4eb.png)
+![Screen Shot-6](https://user-images.githubusercontent.com/110719370/185781500-e87f383f-7a0d-40d5-b49d-11f9ad59c739.png)
+![Screen Shot-7](https://user-images.githubusercontent.com/110719370/185781507-cca85659-d3d1-44c3-a0ea-a2a23a0ab71c.png)
