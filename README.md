@@ -17,3 +17,4 @@ The password generator application generates a random password based on user-sel
 ![Screen Shot-5](https://user-images.githubusercontent.com/110719370/185781493-a029e1ee-b5fc-4454-a1a5-7e3bff33e4eb.png)
 ![Screen Shot-6](https://user-images.githubusercontent.com/110719370/185781500-e87f383f-7a0d-40d5-b49d-11f9ad59c739.png)
 ![Screen Shot-7](https://user-images.githubusercontent.com/110719370/185781507-cca85659-d3d1-44c3-a0ea-a2a23a0ab71c.png)
+https://github.com/toddrgarner/javascript-password-generator/settings/pagesclear
